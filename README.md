@@ -32,17 +32,17 @@
 
 ## Key Features
 
-### ðŸ’° Smart Expense Tracking
+### Smart Expense Tracking
 - **Autocomplete Suggestions:** Quickly add expenses with titles suggested based on your past habits.
 - **Quantity Support:** Effortlessly manage items bought in bulk.
 - **Categorization:** Organize spending with custom-colored categories (7 defaults included).
 
-### ðŸ“Š Powerful Analytics
+### Powerful Analytics
 - **Visual Insights:** Weekly and monthly spending charts to identify trends.
 - **Title Grouping:** "Coffee" and "coffee" are grouped together for accurate reports.
 - **Breakdown:** See exactly where your money goes with a detailed category breakdown.
 
-### ðŸ“… Calendar Overview
+### Calendar Overview
 - **Visual History:** Quickly see which days you spent money on at a glance.
 - **Quick Navigation:** Jump to any day's transactions instantly.
 
@@ -92,12 +92,4 @@
 
 Contributions are welcome! If you find a bug or have a feature suggestion, feel free to open an issue or submit a pull request.
 
----
-
-## ðŸ“„ License
-
-This project is for educational purposes. 
-
----
-
-<p align="center">Made with â¤ï¸ for better financial habits.</p>
+<p align="center">Made with  for better financial habits.</p>
